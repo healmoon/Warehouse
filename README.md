@@ -11,7 +11,7 @@
 
 ### для развертывание проекта выполните следующие команды:
 1. склонируйте репозиторий к себе на компьютер или скачайте проект zip файлом.<br/>
-   git clone https://github.com/VannyZav/DRF_HW.git
+   https://github.com/healmoon/Warehouse.git
 2. создайте виртуальное окружение:<br/>
    python -m venv myenv<br/>
    py -m venv myenv   # введите на Windows, если первый вариант не сработал<br/>
